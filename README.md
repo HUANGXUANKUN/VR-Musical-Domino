@@ -9,8 +9,8 @@
 
 ## Control Menu
 
-1. [**Walking**: L thumbtack](#Placing Domino)
-2. [**Rotating**: R thumbtack](#Rotating Domino)
+1. **Walking**: L thumbstick
+2. **Rotating**: R thumbstick
 3. **Placing Domino:** R Trigger
 4. **Rotating Domino**: R Button A
 5. **Deleting Domino**: R Button B

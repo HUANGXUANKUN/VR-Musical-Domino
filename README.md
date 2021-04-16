@@ -1,13 +1,18 @@
 # VR-Musical-Domino
 
-![placing domino](images/PlaceDomino.gif| width=100)
+![control layout](images/Control layout.gif)
 
-![alt text](img/my-image.png)
+![placing domino](images/PlaceDomino.gif)
 
-![alt text](img/my-image.png)
 
-![alt text](img/my-image.png)
+![placing domino](images/ContinuePlace.gif)
 
-![alt text](img/my-image.png)
+![placing domino](images/Delete.gif)
 
-![alt text](img/my-image.png)
+![placing domino](images/Stand.gif)
+
+![placing domino](images/Clear.gif)
+
+![placing domino](images/Push.gif)
+
+

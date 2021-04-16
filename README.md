@@ -1,18 +1,21 @@
 # VR-Musical-Domino
 
-![control layout](images/Control layout.gif)
+![control layout](images/Control.gif)
 
 ![placing domino](images/PlaceDomino.gif)
 
+![Rotate Domino](images/ChangeAngle.gif)
 
-![placing domino](images/ContinuePlace.gif)
+![Change Color](images/ChangeColor.gif)
 
-![placing domino](images/Delete.gif)
+![Delete domino](images/Delete.gif)
 
-![placing domino](images/Stand.gif)
+![ContinuePlace](images/ContinuePlace.gif)
 
-![placing domino](images/Clear.gif)
+![Stand all domino](images/Stand.gif)
 
-![placing domino](images/Push.gif)
+![clear all domino](images/Clear.gif)
+
+![push domino](images/Push.gif)
 
 
